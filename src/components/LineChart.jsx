@@ -114,7 +114,7 @@ const LineChart = () => {
     )
   return (
     <div>
-        <h2>Startups create since 1984 to 2022 <br />
+        <h2>Startups created since 1984 <br />
          per Uk, USA and EU</h2>
       <p>
         Graph from  <br />
